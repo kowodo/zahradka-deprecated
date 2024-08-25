@@ -4,6 +4,7 @@
 ![git_download.png](src/git_download.png)
 2) instalace
 3) overeni instalace 
+ 
 ![git_version.png](src/git_version.png)
 
 Kdyz to pise "git version X.XX...." tak je to ok.
