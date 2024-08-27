@@ -51,4 +51,7 @@ __bold__
  
 - 123.\  oo
 
-dkdkdkdkd
+# "Tlacitka"
+`ctrl` + `A`
+- pouzivam code block
+  At the command prompt, type `nano`.
