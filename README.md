@@ -4,4 +4,4 @@ Zahradka jsou poznamky, ktere:
 2) je potreba stale udrzovat od plevelu v podobe neaktualnich informaci
 3) jsou prikladem, jak si vest poznamky v gitu a .md
 
-test text
+test text vojta
