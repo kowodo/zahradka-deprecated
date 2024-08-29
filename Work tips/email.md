@@ -18,6 +18,8 @@ Creation is self-explanatory:
 Star adds category to Favorites in the main email view.
 ![outlook_categories.png](src/outlook_categories.png)
 
+### Multiple Timezones
+
 
 ### OOO time, PTO approvals etc. 
 I do share a whole day event with the teams I work with. They know when I am away.
