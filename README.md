@@ -11,7 +11,7 @@
 ### Zahradka  are notes which:
 ("Zahradka" means little garden in czech)
 1) are in shareable form.
-2) shoud be weeded out from week like deprecated information.
+2) shoud be weeded out from weed in form of deprecated information.
 3) is a example how to take notes using git and .md files.
 ***
 The notes have been moved to
