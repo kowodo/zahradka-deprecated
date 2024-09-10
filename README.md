@@ -1,10 +1,14 @@
 # 🌳 Zahradka 👨‍🌾
-###   Zahradka jsou poznamky, ktere:
+![Czech_flag.png](it%2Fsrc%2FCzech_flag.png)
+###  Zahradka jsou poznamky, ktere:
 1) jsou ve sdiletelne podobne (oproti predchozim).
 2) je potreba stale udrzovat od plevelu v podobe neaktualnich informaci
 3) jsou prikladem, jak si vest poznamky v gitu a .md
+ 
+***
 
-###  Zahradka  are notes which:
+![English_flag.png](it%2Fsrc%2FEnglish_flag.png)
+### Zahradka  are notes which:
 ("Zahradka" means little garden in czech)
 1) are in shareable form.
 2) shoud be weeded out from week like deprecated information.
