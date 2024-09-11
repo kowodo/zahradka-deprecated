@@ -1,4 +1,4 @@
-# 🌳 Zahradka 👨‍🌾
+# 🌳 Zahradka-deprecated 👨‍🌾
 ![Czech_flag.png](it/src/Czech_flag.png)
 ###  Zahradka jsou poznamky, ktere:
 1) jsou ve sdiletelne podobne (oproti predchozim).
